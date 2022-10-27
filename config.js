@@ -13,11 +13,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281511480762']
-global.ownernomer = "6281511480762"
-global.premium = ['6281511480762']
-global.packname = 'Sticker By'
-global.author = 'Putra Dz'
+global.owner = ['6285777329413']
+global.ownernomer = "6285777329413"
+global.premium = ['6285777329413']
+global.packname = '© Bungabangkung'
+global.author = 'Aditeigth'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -33,7 +33,7 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: 'Bentarr...,Kalo lama error🗿',
     errapi: 'Error Mungkin Apikey Tidak Valid!',
     errmor: 'Error Kesalahan Sistem',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
@@ -44,13 +44,13 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
-global.mygit = 'https://github.com/AzzBott679'
-global.myyt = 'https://youtube.com/c/Putra Dz'
-global.myytv = 'https://youtube.com/shorts/HTh5O43sSus?feature=share'
-global.mygc = "https://chat.whatsapp.com/CkguID8hSdSFAaBrKNHLSr"
-global.botname = 'Putra Dz'
-global.akulaku = 'Bot PutraDz'
-global.ytname = 'YT Putra Dz'
+global.mygit = 'https://github.com/Bungabangkung'
+global.myyt = '_'
+global.myytv = '_'
+global.mygc = "Gaada 🗿"
+global.botname = 'LilyBoy'
+global.ig = 'https://Instagram.com/aditeigth'
+global.igname = 'aditeigth'
 
 
 let file = require.resolve(__filename)

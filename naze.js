@@ -985,15 +985,15 @@ break
             }
             break
             case 'sc': {
-                m.reply('https://wa.me/6281511480762')
+                m.reply('https://wa.me/6285777329413')
             }
             break		 
-            case 'subsyt': {
+            case 'Ig ngabs🗿': {
             let jawab = `*${ucapanWaktu}*\n*Silahkan Klik Link Ini*`
             let buttons = [{ buttonId: 'rules', buttonText: { displayText: '❗Rules' }, type: 1 },{ buttonId: 'donasi', buttonText: { displayText: '🙏Donasi' }, type: 1 }]
             let buttonMessage = {
   document: fs.readFileSync('./media/doc/fake.pptx'),
-  fileName : akulaku + (` | Halo ${pushname}`),
+  fileName : ig + (` | Halo ${pushname}`),
   mimetype: `${filsk}`,
   fileLength: jumhal,
   pageCount: jumlha,
@@ -1002,13 +1002,13 @@ break
   buttons: buttons,
   headerType: 4,
   contextInfo:{externalAdReply:{
-  title: 'Putra Dz',
-  body: 'Subscribe My YouTube', 
+  title: 'Aditeigth',
+  body: 'Ymma (Yang mau mau aja)', 
   showAdAttribution: true,
   thumbnail: thumb,
   mediaType:2,
-  mediaUrl: myyt,
-  sourceUrl: myyt
+  mediaUrl: ig,
+  sourceUrl: ig
   }}
   }
   naze.sendMessage(m.chat, buttonMessage, {quoted: fkontak})
